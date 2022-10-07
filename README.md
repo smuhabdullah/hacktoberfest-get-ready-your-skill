@@ -20,8 +20,6 @@
   <li>Please mark Done or ✅ in the README.md Table</li>
  	<li>Make your successful pull request</li>
 </ol>
-<p align="center"><img src="https://user-images.githubusercontent.com/72184293/193462051-2ad7f0f5-74a4-4750-b2c8-efd843764f86.png"></p>
-<p align="center"><img src="https://user-images.githubusercontent.com/72184293/193463115-48e05a71-89dd-4c2f-a341-8768278a2866.png"></p>
 
 <div align="center">
 
@@ -80,7 +78,7 @@
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;">Done</td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
-<td class="text-center" style="width: 6.56814%; height: 24px;"></td>
+<td class="text-center" style="width: 6.56814%; height: 24px;">✅</td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
@@ -93,7 +91,7 @@
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;">Done</td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
-<td class="text-center" style="width: 6.56814%; height: 24px;"></td>
+<td class="text-center" style="width: 6.56814%; height: 24px;">✅</td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
@@ -132,7 +130,7 @@
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.56814%; height: 24px;"></td>
-<td class="text-center" style="width: 6.56814%; height: 24px;"></td>
+<td class="text-center" style="width: 6.56814%; height: 24px;">✅</td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
 <td class="text-center" style="width: 6.07553%; height: 24px;"></td>
